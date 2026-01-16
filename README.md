@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? email: ypk21@mails.tsinghua.edu.cn
 - 😄 Pronouns: ...
-- ⚡ Fun fact: maybe I'm a boring person.
+- ⚡ Fun fact: maybe I'm a boring human.
 
 <!---
 pk-1999/pk-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
